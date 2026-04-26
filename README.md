@@ -19,7 +19,7 @@
 ![ESP Architecture](https://img.shields.io/badge/ESP_Architecture-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ### 📡 Telemetría & Protocolos
-![TCP/MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![TCP/MQTT](https://img.shields.io/badge/MQTT_/_TCP-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Modbus RTU](https://img.shields.io/badge/Modbus_RTU-0072C6?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=white)
 ![I2C/SPI/UART/ADC/PWM](https://img.shields.io/badge/I2C_/_SPI_/_UART_/_ADC_/_PWM-808080?style=for-the-badge)
 ![FREERTOS](https://img.shields.io/badge/FREERTOS-808080?style=for-the-badge)
