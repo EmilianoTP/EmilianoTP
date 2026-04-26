@@ -1,67 +1,33 @@
-## Student to Full-Stack Developer and Data Engineer
+## 🚀 IoT & Embedded Systems Developer
 
-<!--
-**EmilianoTP/EmilianoTP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1>🚀 About Me </h1>
 
-Soy estudiante en Ingeniería Mecatrónica desde el 2021.
+[cite_start]Soy un desarrollador de sistemas embebidos enfocado en el ciclo completo de dispositivos IoT, desde la validación de la arquitectura electrónica hasta la lógica del firmware[cite: 107]. [cite_start]Me especializo en resolver cuellos de botella tanto en el circuito de la placa como en la optimización del código, asegurando que el producto final sea estable y eficiente energéticamente[cite: 109].
 
-Durante todo el transcurso de la carrera he ido descubriendo diferentes áreas a desarrollar en la cual encontré el apasionante mundo de la programación. 
-
-Durante los semestres me embarqué en descubrir que lenguaje de programación me llamara la atención, por lo que desarrollé un poco de cada lenguaje como java, C, C++, C#, html, css, javascript, sin embargo, al final mi elección fue python que es un lenguaje en el cual se pueden desarrollar múltiples proyectos y contiene áreas comola inteligencia artificial, ciencia de datos, desarrollo web, entre otros.
-
->🤖 IEEE member ![Static Badge](https://img.shields.io/badge/Web%20Developer-white?style=flat)
-
-
-
-
-
+> [cite_start]⚡ Construyendo sistemas robustos para entornos operativos reales y exigentes[cite: 108, 262].
 
 <h1>🌎 Social 🌎</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EmilianoTuyu-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/emiliano-tuyu-018ab02ab/)
 
+<h1>⚙️ Tech Stack & Herramientas </h1>
 
+### 🧠 Firmware & Microcontroladores
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-20B2AA?style=for-the-badge&logo=rtos&logoColor=white)
+![ESP Architecture](https://img.shields.io/badge/ESP_Architecture-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
+### 📡 Telemetría & Protocolos
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Modbus RTU](https://img.shields.io/badge/Modbus_RTU-0072C6?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=)
+![I2C/SPI/UART](https://img.shields.io/badge/I2C_/_SPI_/_UART-808080?style=for-the-badge)
 
+### 🔌 Hardware & Control de Versiones
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Hardware Validation](https://img.shields.io/badge/Diagnóstico_Electrónico-FF9900?style=for-the-badge)
+![Power Integration](https://img.shields.io/badge/VFD_&_Industrial_Power-black?style=for-the-badge)
 
-<h1>🚀 Currently Working </h1>
+<h1>🚀 Lo que estoy construyendo </h1>
 
-![Git Flow](https://img.shields.io/badge/Git-Flow-purple?style=for-the-badge&logo=github)
-
-![python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=Python)
-
-
-# 🌐 web services
-### backend 
-[![Django](https://img.shields.io/badge/Django-CRUD-red?style=for-the-badge&logo=django)
-](https://github.com/EmilianoTP/Django-auth-crud)
-<br/>
-![Django Rest](https://img.shields.io/badge/Django-REST-green?style=for-the-badge&logo=django)
-<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=PostgreSQL)
-<br/>
-### Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React)
-<br/>
-![html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html)
-<br/>
-![CSS](https://img.shields.io/badge/CSS-purple?style=for-the-badge&logo=CSS)
-<br/>
-![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript)
-
-
-
-
+[cite_start]Actualmente trabajo en el desarrollo End-to-End de sistemas de telemetría y automatización, gestionando tareas concurrentes sin bloqueos para garantizar alta fiabilidad en tiempo real[cite: 107]. [cite_start]Mi enfoque incluye el diseño de la lógica de control en C y la integración de hardware propio con equipo de potencia industrial (VFD y contactores)[cite: 154, 177].
