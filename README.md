@@ -2,7 +2,7 @@
 
 <h1>🚀 About Me </h1>
 
-[cite_start]Soy un desarrollador de sistemas embebidos enfocado en el ciclo completo de dispositivos IoT, desde la validación de la arquitectura electrónica hasta la lógica del firmware[cite: 107]. [cite_start]Me especializo en resolver cuellos de botella tanto en el circuito de la placa como en la optimización del código, asegurando que el producto final sea estable y eficiente energéticamente[cite: 109].
+> [cite_start]Soy un desarrollador de sistemas embebidos enfocado en el ciclo completo de dispositivos IoT, desde la validación de la arquitectura electrónica hasta la lógica del firmware[cite: 107]. [cite_start]Me especializo en resolver cuellos de botella tanto en el circuito de la placa como en la optimización del código, asegurando que el producto final sea estable y eficiente energéticamente[cite: 109].
 
 > [cite_start]⚡ Construyendo sistemas robustos para entornos operativos reales y exigentes[cite: 108, 262].
 
